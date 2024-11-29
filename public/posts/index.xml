@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first webpage with Hugo</title>
+      <link>//localhost:1313/posts/framework-setup/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/framework-setup/</guid>
+      <description>&lt;h2 id=&#34;hugo-installation&#34;&gt;Hugo installation:&lt;/h2&gt;&#xA;&lt;p&gt;Using homebrew I installed hugo locally on my Mac.&lt;/p&gt;&#xA;&lt;h2 id=&#34;building-the-website&#34;&gt;Building the website:&lt;/h2&gt;&#xA;&lt;p&gt;I created a Hugo site named lab10c through CLI then added the Ananke theme to it. Then using vim editor edited the markdown file.&lt;/p&gt;&#xA;&lt;h2 id=&#34;difficulties-ecountered&#34;&gt;Difficulties ecountered:&lt;/h2&gt;&#xA;&lt;p&gt;I had difficulty figuring what them to use and how to customize it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
